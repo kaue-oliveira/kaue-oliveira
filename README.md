@@ -9,8 +9,6 @@ Bem-vindo(a) ao meu santuário digital no GitHub! Sinta-se à vontade para, cont
 ## Um pouco sobre a minha persona
 
 - 👨‍💻 Estudante de Ciência da Computação na Faculdade Federal de Lavras
-- 🌱 Em constante jornada de descobrimento, sempre melhorando meu código e buscando evoluir a cada dia
-- 📚 Devoto das artes da tecnologia e da inovação, trilhando os caminhos das mentes brilhantes que nos precederam
 - 💬 "A tecnologia é a força motriz que impulsiona o mundo, e a inovação é a chama que a mantém acesa." - Steve Jobs
 
 ## Linguagens que conheço
