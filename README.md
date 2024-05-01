@@ -9,9 +9,8 @@ Bem-vindo(a) ao meu santuário digital no GitHub! Sinta-se à vontade para, cont
 ## Um pouco sobre a minha persona
 
 - 👨‍💻 Estudante de Ciência da Computação na Faculdade Federal de Lavras
-- 💬 "A tecnologia é a força motriz que impulsiona o mundo, e a inovação é a chama que a mantém acesa." - Steve Jobs
 
-## Linguagens que conheço
+  ## Linguagens que conheço
 
 - Linguagens que domino: 
   - ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -29,5 +28,3 @@ Para aqueles que desejam estabelecer um vínculo ou conversar, aqui onde pode me
 - [LinkedIn](https://www.linkedin.com/in/kau%C3%AA-oliveira-577441258/)
 
 Fique à vontade para me enviar uma mensagem, seja para elucidar dúvidas ou simplesmente compartilhar uma amigável conversa!
-
-Agradeço a visita! Que tua jornada seja repleta de descobertas e que encontres tesouros dignos de admiração por aqui.
