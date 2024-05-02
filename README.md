@@ -1,30 +1,30 @@
-# Saudações, nobre visitante! Eu sou Kaue Oliveira.
+# Greetings, dear visitor! I'm Kaue Oliveira.
 
-Bem-vindo(a) ao meu santuário digital no GitHub! Sinta-se à vontade para, contribuir, comentar ou me chamar.
+Welcome to my digital sanctuary on GitHub! Feel free to contribute, comment, or reach out.
 
 <div style="display: flex; align-items: center;">
   <img src="https://octodex.github.com/images/octobiwan.jpg" width="200"/>
 </div>
 
-## Um pouco sobre a minha persona
+## A bit about my persona
 
-- 👨‍💻 Estudante de Ciência da Computação na Faculdade Federal de Lavras
+- 👨‍💻 Computer Science student at Federal University of Lavras
 
-  ## Linguagens que conheço
+  ## Languages I know
 
-- Linguagens que domino: 
+- Languages I master:
   - ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
   - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## Como contribuir
+## How to contribute
 
-Se encontrar inspiração e desejas contribuir com meus humildes projetos, faça um fork do repositório, acrescente suas melhorias e envie uma solicitação de pull.
+If you find inspiration and wish to contribute to my humble projects, fork the repository, add your improvements, and send a pull request.
 
-## Comunicação e conexão
+## Communication and connection
 
-Para aqueles que desejam estabelecer um vínculo ou conversar, aqui onde pode me encontrar:
+For those who wish to establish a connection or converse, here's where you can find me:
 
 - [LinkedIn](https://www.linkedin.com/in/kau%C3%AA-oliveira-577441258/)
 
-Fique à vontade para me enviar uma mensagem, seja para elucidar dúvidas ou simplesmente compartilhar uma amigável conversa!
+Feel free to drop me a message, whether to clarify doubts or simply share a friendly conversation!
