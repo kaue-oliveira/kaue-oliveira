@@ -1,4 +1,5 @@
-# Greetings, dear visitor! I'm Kaue Oliveira.
+# Hello there 👋
+## I'm Kaue Oliveira.
 
 Welcome to my digital sanctuary on GitHub! Feel free to contribute, comment, or reach out.
 
